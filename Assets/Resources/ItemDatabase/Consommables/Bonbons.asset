@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfded3dbd48252c4e904cd5b649b833c, type: 3}
+  m_Name: Bonbons
+  m_EditorClassIdentifier: 
+  IdName: _bonbons
+  Nom: Bonbons
+  Description: "Un paquet de bonbons en parfait \xE9tat !"
+  DescriptionShop: 
+  Poids: 0.5
+  prix: 0
+  ImagePreview: {fileID: 21300000, guid: c45871abed704e7418d8f65621bb1f7a, type: 3}
+  model3D: {fileID: 0}
+  prefab: {fileID: 1290220073858102, guid: 2f4cf529875c2cd4486f8e6fda14b692, type: 2}
+  MaxStack: 20
+  type: 0
+  required: 
+  Valeur: 15

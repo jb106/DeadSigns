@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a816e91d0d9048543a06b051eed5ad28, type: 3}
+  m_Name: PlayerFootStepsGround
+  m_EditorClassIdentifier: 
+  _audioGroup: Player
+  _volume: 0.5
+  _spatialBlend: 0
+  _priority: 256
+  _audioClipBanks:
+  - Clips:
+    - {fileID: 8300000, guid: a576d56511945c941bc3d2826a788590, type: 3}
+    - {fileID: 8300000, guid: 5c305ac2cf9fb9b4195904bf71c18901, type: 3}
+    - {fileID: 8300000, guid: 1e979adee5007d94e8897cee8a97fa53, type: 3}
+    - {fileID: 8300000, guid: 9bf30941488ede14bb27f6cb15e36874, type: 3}
+    - {fileID: 8300000, guid: 80ff93b551e284c459cae6f7e4c6ff46, type: 3}
+    - {fileID: 8300000, guid: b3ff826b837d5074d9bc04dd2a4b6915, type: 3}
+    - {fileID: 8300000, guid: 83f9ffdc5a760724bb679280744f8d66, type: 3}
+    - {fileID: 8300000, guid: dea92b6f448c2d64dab08c3c21b4bbcd, type: 3}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a816e91d0d9048543a06b051eed5ad28, type: 3}
+  m_Name: PlayerFootStepMetal
+  m_EditorClassIdentifier: 
+  _audioGroup: Player
+  _volume: 0.8
+  _spatialBlend: 0
+  _priority: 128
+  _audioClipBanks:
+  - Clips:
+    - {fileID: 8300000, guid: dfb52b1ff82387d41b158ccdd64ee8b4, type: 3}
+    - {fileID: 8300000, guid: 9ccadeb066199bb4482b0071d0f0ed0d, type: 3}
+    - {fileID: 8300000, guid: 7592a2e21a44d954eb4b07b3deb10ec3, type: 3}
+    - {fileID: 8300000, guid: a80f3ceeb1d6b7942ad340895d32cc4d, type: 3}
+    - {fileID: 8300000, guid: f6ad2e9d442a41740a0f92a481a345ac, type: 3}
+    - {fileID: 8300000, guid: 4e08265d2cc70914d8aa0865e320af7d, type: 3}
+    - {fileID: 8300000, guid: 54dabdde15243894980b3244222c6408, type: 3}
+    - {fileID: 8300000, guid: 6d4366a290f69b7459d7a9765ab5f021, type: 3}
+    - {fileID: 8300000, guid: e65445851f902e649921e4d785471b24, type: 3}
+    - {fileID: 8300000, guid: 13cb322ef1dba0746bf588d502960794, type: 3}

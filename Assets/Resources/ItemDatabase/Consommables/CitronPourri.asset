@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfded3dbd48252c4e904cd5b649b833c, type: 3}
+  m_Name: CitronPourri
+  m_EditorClassIdentifier: 
+  IdName: _citronPourri
+  Nom: Citron pourri
+  Description: "Un citron recouvert de pourriture, \xE7a peut \xEAtre dangereux de
+    le manger ..."
+  DescriptionShop: 
+  Poids: 0.5
+  prix: 0
+  ImagePreview: {fileID: 21300000, guid: 7b3a1cd546749e14aaf50767b9942491, type: 3}
+  prefab: {fileID: 1196780346331830, guid: ceb4edc4dc3406b468c3f3e9336fb2be, type: 2}
+  MaxStack: 20
+  type: 0
+  required: 
+  Valeur: 5

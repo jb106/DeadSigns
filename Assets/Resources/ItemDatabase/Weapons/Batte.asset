@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fd1a41179a66ad4eb0001f1ceb87504, type: 3}
+  m_Name: Batte
+  m_EditorClassIdentifier: 
+  IdName: _batte
+  Nom: Batte
+  Description: "Une batte de baseball dot\xE9e de clous, ce qui la rend particuli\xE8rement
+    redoutable."
+  DescriptionShop: 
+  Poids: 2
+  prix: 0
+  ImagePreview: {fileID: 21300000, guid: b9c2578ea6127c54098f817c0be5cf38, type: 3}
+  prefab: {fileID: 1299802200524264, guid: 5e2a37f3241461f44a16a6c39f50ea7d, type: 2}
+  MaxStack: 1
+  type: 0
+  Puissance: 4
+  Precision: 1
+  Cadence: 1
+  Munitions: 1
+  Recul: 1
+  Tirs: 1

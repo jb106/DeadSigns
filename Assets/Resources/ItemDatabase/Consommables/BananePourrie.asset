@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfded3dbd48252c4e904cd5b649b833c, type: 3}
+  m_Name: BananePourrie
+  m_EditorClassIdentifier: 
+  IdName: _bananePourrie
+  Nom: Banane pourrie
+  Description: "Une banane dans un \xE9tat lamentable, \xE7a ne doit pas \xEAtre tr\xE8s
+    bon."
+  DescriptionShop: 
+  Poids: 0.5
+  prix: 0
+  ImagePreview: {fileID: 21300000, guid: 7c5579d240740174f810784ab33ada3a, type: 3}
+  prefab: {fileID: 1502732757498200, guid: 19f2e02323b8c404c9d1b19ec3d13d78, type: 2}
+  MaxStack: 1
+  type: 0
+  required: 
+  Valeur: 5

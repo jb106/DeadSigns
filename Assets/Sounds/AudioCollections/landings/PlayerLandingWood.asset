@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a816e91d0d9048543a06b051eed5ad28, type: 3}
+  m_Name: PlayerLandingWood
+  m_EditorClassIdentifier: 
+  _audioGroup: Player
+  _volume: 0.7
+  _spatialBlend: 0
+  _priority: 256
+  _audioClipBanks:
+  - Clips:
+    - {fileID: 8300000, guid: d68a289e242a8f940bae374db2f76acd, type: 3}
+    - {fileID: 8300000, guid: c13587ea06c319246a1a875187c9eefe, type: 3}
+    - {fileID: 8300000, guid: 896d3117f4dfd824ab345471e5ddd097, type: 3}
+    - {fileID: 8300000, guid: ec4f08dbc47a0b64f96c23af6327a0bb, type: 3}
+    - {fileID: 8300000, guid: 4bd127e72d28da94198af4e103a18199, type: 3}
+    - {fileID: 8300000, guid: 3f6cb35747dfec14da610649d19f79af, type: 3}

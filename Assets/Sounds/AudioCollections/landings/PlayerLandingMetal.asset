@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a816e91d0d9048543a06b051eed5ad28, type: 3}
+  m_Name: PlayerLandingMetal
+  m_EditorClassIdentifier: 
+  _audioGroup: Player
+  _volume: 0.7
+  _spatialBlend: 0
+  _priority: 256
+  _audioClipBanks:
+  - Clips:
+    - {fileID: 8300000, guid: 84dd6a7ac8d9d50429e3aaae99c4b050, type: 3}
+    - {fileID: 8300000, guid: 2de2eb7b8e63cce4a86812361638a95e, type: 3}
+    - {fileID: 8300000, guid: c90500e23ce2b8e4d8302b38f5c4d26b, type: 3}
+    - {fileID: 8300000, guid: 3fd9b7a4862cb7b419e8454170ec5e5f, type: 3}
+    - {fileID: 8300000, guid: bceece349e64bbb40af36d71d9138f58, type: 3}

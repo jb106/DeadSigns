@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a816e91d0d9048543a06b051eed5ad28, type: 3}
+  m_Name: PlayerLandingWater
+  m_EditorClassIdentifier: 
+  _audioGroup: Player
+  _volume: 0.7
+  _spatialBlend: 0
+  _priority: 256
+  _audioClipBanks:
+  - Clips:
+    - {fileID: 8300000, guid: 09820822718539a45a9ffb54a9da5b9e, type: 3}
+    - {fileID: 8300000, guid: c720732204df04649921667b4c02fd5a, type: 3}
+    - {fileID: 8300000, guid: a19f682243c90d24fb51425e1bfda7d6, type: 3}
+    - {fileID: 8300000, guid: 20dd870042e8d1245946293f435de7ed, type: 3}

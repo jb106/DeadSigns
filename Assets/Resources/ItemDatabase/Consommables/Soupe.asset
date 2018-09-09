@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfded3dbd48252c4e904cd5b649b833c, type: 3}
+  m_Name: Soupe
+  m_EditorClassIdentifier: 
+  IdName: _soupe
+  Nom: Soupe
+  Description: De la bonne soupe bien revigorante, quoiqu'un peu froide... Il me faudrait
+    quelque chose de tranchant pour l'ouvrir.
+  DescriptionShop: 
+  Poids: 1
+  prix: 0
+  ImagePreview: {fileID: 21300000, guid: 75e8d27272afea741b4dcb2322df14c0, type: 3}
+  prefab: {fileID: 1402706735027854, guid: 9b967bba70646044f92b250462d998c6, type: 2}
+  MaxStack: 20
+  type: 2
+  required: _couteau
+  Valeur: 35

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 542e3ab8c2600a94eaaa645f1a29964c, type: 3}
+  m_Name: "Cl\xE91"
+  m_EditorClassIdentifier: 
+  IdName: _cle1
+  Nom: "Cl\xE9 ancienne"
+  Description: "Quelle porte cette cl\xE9 peut-elle bien ouvrir ?"
+  DescriptionShop: 
+  Poids: 0.5
+  prix: 0
+  ImagePreview: {fileID: 21300000, guid: 4485700b0fc77114689460f0b3d22e21, type: 3}
+  model3D: {fileID: 0}
+  prefab: {fileID: 1880967210013582, guid: 1afb7bf848a1c63429228e4de8e44a49, type: 2}
+  MaxStack: 1
+  type: 0

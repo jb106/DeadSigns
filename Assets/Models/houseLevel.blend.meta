@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: d9b987dbfb809a447904ac28dc9031e6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Plane
+    100004: Plane_001
+    100006: Plane_002
+    100008: Plane_003
+    100010: Plane_004
+    100012: Plane_005
+    100014: Plane_006
+    100016: Plane_007
+    100018: Plane_008
+    100020: Plane_009
+    100022: sol
+    100024: sol_001
+    100026: sol_002
+    100028: sol_003
+    100030: sol_004
+    100032: sol_000
+    100034: sol_005
+    100036: sol_006
+    100038: sol_007
+    100040: sol_008
+    100042: sol_009
+    400000: //RootNode
+    400002: Plane
+    400004: Plane_001
+    400006: Plane_002
+    400008: Plane_003
+    400010: Plane_004
+    400012: Plane_005
+    400014: Plane_006
+    400016: Plane_007
+    400018: Plane_008
+    400020: Plane_009
+    400022: sol
+    400024: sol_001
+    400026: sol_002
+    400028: sol_003
+    400030: sol_004
+    400032: sol_000
+    400034: sol_005
+    400036: sol_006
+    400038: sol_007
+    400040: sol_008
+    400042: sol_009
+    2100000: unnamed
+    2100002: Vitre
+    2100004: Tapisserie
+    2300000: //RootNode
+    2300002: Plane
+    2300004: Plane_001
+    2300006: Plane_002
+    2300008: Plane_003
+    2300010: Plane_004
+    2300012: Plane_005
+    2300014: Plane_006
+    2300016: Plane_007
+    2300018: Plane_008
+    2300020: Plane_009
+    2300022: sol
+    2300024: sol_001
+    2300026: sol_002
+    2300028: sol_003
+    2300030: sol_004
+    2300032: sol_000
+    2300034: sol_005
+    2300036: sol_006
+    2300038: sol_007
+    2300040: sol_008
+    2300042: sol_009
+    3300000: //RootNode
+    3300002: Plane
+    3300004: Plane_001
+    3300006: Plane_002
+    3300008: Plane_003
+    3300010: Plane_004
+    3300012: Plane_005
+    3300014: Plane_006
+    3300016: Plane_007
+    3300018: Plane_008
+    3300020: Plane_009
+    3300022: sol
+    3300024: sol_001
+    3300026: sol_002
+    3300028: sol_003
+    3300030: sol_004
+    3300032: sol_000
+    3300034: sol_005
+    3300036: sol_006
+    3300038: sol_007
+    3300040: sol_008
+    3300042: sol_009
+    4300000: Plane
+    4300002: Plane_001
+    4300004: Plane_004
+    4300006: Plane_003
+    4300008: Plane_002
+    4300010: Plane_009
+    4300012: Plane_008
+    4300014: Plane_007
+    4300016: Plane_006
+    4300018: Plane_005
+    4300020: sol_001
+    4300022: sol
+    4300024: sol_002
+    4300026: sol_004
+    4300028: sol_003
+    4300030: sol_000
+    4300032: sol_005
+    4300034: sol_007
+    4300036: sol_006
+    4300038: sol_009
+    4300040: sol_008
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: 9dd68206b812bc24f94b7e627227f850, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 0
+    secondaryUVPackMargin: 8
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a816e91d0d9048543a06b051eed5ad28, type: 3}
+  m_Name: PlayerFootStepWater
+  m_EditorClassIdentifier: 
+  _audioGroup: Player
+  _volume: 0.8
+  _spatialBlend: 0
+  _priority: 128
+  _audioClipBanks:
+  - Clips:
+    - {fileID: 8300000, guid: f3862e619b0ed0943ba365db1810c082, type: 3}
+    - {fileID: 8300000, guid: a66c330e25183b64bb2ef00e2c3c63dc, type: 3}
+    - {fileID: 8300000, guid: 1a7a9f43f7d255d4ea5fa09e80650582, type: 3}
+    - {fileID: 8300000, guid: 587684162346f8c4db7c0b4e0dab3dbf, type: 3}
+    - {fileID: 8300000, guid: fdac5cb9da7ff4a4bbc54b26829a3d36, type: 3}
+    - {fileID: 8300000, guid: 051d222b8e409cd4b9663b68e287b41c, type: 3}
+    - {fileID: 8300000, guid: c7650975772b9fc4ea3819a4aad752af, type: 3}
+    - {fileID: 8300000, guid: 43751bbbadcd61c41bb79d213467b630, type: 3}

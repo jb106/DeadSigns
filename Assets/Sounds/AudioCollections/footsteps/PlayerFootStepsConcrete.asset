@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a816e91d0d9048543a06b051eed5ad28, type: 3}
+  m_Name: PlayerFootStepsConcrete
+  m_EditorClassIdentifier: 
+  _audioGroup: Player
+  _volume: 0.5
+  _spatialBlend: 0
+  _priority: 128
+  _audioClipBanks:
+  - Clips:
+    - {fileID: 8300000, guid: bd38e4703ed497b45b3d1000ca62d370, type: 3}
+    - {fileID: 8300000, guid: 4cd1bf29b2a2e7846805ee17cddb2e3c, type: 3}
+    - {fileID: 8300000, guid: 54b70660cbdd21f479b68474f39e8ba4, type: 3}
+    - {fileID: 8300000, guid: ea1bf33edf6ccec49b1db3a3fbdd5b3d, type: 3}
+    - {fileID: 8300000, guid: 6d8f5c9a5123e7543b839f2ff19113f5, type: 3}
+    - {fileID: 8300000, guid: 4e7536c015828b14d9f93c1a8b655b3e, type: 3}
+    - {fileID: 8300000, guid: ab3dc4fa2b66e6949bbdda41706a6429, type: 3}
+    - {fileID: 8300000, guid: 5a54c37aa21ee914b874b7484fc94b5b, type: 3}

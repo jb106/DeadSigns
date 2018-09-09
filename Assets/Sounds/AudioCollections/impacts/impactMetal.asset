@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a816e91d0d9048543a06b051eed5ad28, type: 3}
+  m_Name: impactMetal
+  m_EditorClassIdentifier: 
+  _audioGroup: Environnement
+  _volume: 0.2
+  _spatialBlend: 1
+  _priority: 128
+  _audioClipBanks:
+  - Clips:
+    - {fileID: 8300000, guid: f8a90242a5e00234d8ed889b1877467e, type: 3}
+    - {fileID: 8300000, guid: de39972690bbc2246af886777d4a1332, type: 3}
+    - {fileID: 8300000, guid: 8ee3fcb8e90361e4e9c785080ad6c67c, type: 3}
+    - {fileID: 8300000, guid: 97529407902ffe444b239679f658f140, type: 3}
